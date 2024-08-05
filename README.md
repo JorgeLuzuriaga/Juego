@@ -1,5 +1,6 @@
 Integrantes: Jorge Luzuriaga, Leonardo Espinoza
 
+Diagrama de Clases UML:
 ![image](https://github.com/user-attachments/assets/10676cb2-b0bf-4f63-9efe-f2a79cd6089a)
 
 
