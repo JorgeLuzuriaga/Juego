@@ -1,6 +1,7 @@
 Integrantes: Jorge Luzuriaga, Leonardo Espinoza
 
-![image](https://github.com/user-attachments/assets/cd6a9a38-6efa-4bd1-87b2-dc5c281bcdb6)
+![image](https://github.com/user-attachments/assets/10676cb2-b0bf-4f63-9efe-f2a79cd6089a)
+
 
                     Pasos para descargar los archivos del juego
 1) En el apartado principal de GitHub y nos ubicamos en el boton verde codigo
